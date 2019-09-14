@@ -18,8 +18,7 @@ main {
 
 card header {
     height: 20%;
-    background;
-    gray;
+    background-color: gray;
 
 }
 
@@ -54,3 +53,5 @@ body {
     background-position: center;
     background-repeat: no-repeat;
 }
+
+nav {}
